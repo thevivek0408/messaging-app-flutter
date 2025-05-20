@@ -3,8 +3,6 @@
 This is a modern Flutter messaging app scaffold. It supports:
 - One-to-one chat
 - Emoji picker
-- File sharing
-- Camera and video integration
 - Socket.io client support
 
 ---
